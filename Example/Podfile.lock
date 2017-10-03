@@ -1,0 +1,19 @@
+PODS:
+  - TvOSMoreButton (1.0.1)
+  - TvOSTextViewer (0.0.2)
+
+DEPENDENCIES:
+  - TvOSMoreButton (from `..`)
+  - TvOSTextViewer
+
+EXTERNAL SOURCES:
+  TvOSMoreButton:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  TvOSMoreButton: b4cd22ba006c530f4c7e56991d4f7de4b6268184
+  TvOSTextViewer: e35edcc34f24e9d65cfe533c590fd737989ba33b
+
+PODFILE CHECKSUM: 8db7f68b2b9fbe2c4836160ef83696b0845e4a1f
+
+COCOAPODS: 1.2.0
